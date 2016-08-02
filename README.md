@@ -19,3 +19,4 @@ Pentagons spin in opposite directions around a centered techlab logo.
 ## Sorting Animation
 
 Uses different types of sorts to create a gradient of colors before displaying the techlab logo.
+ YOURE WACK 
